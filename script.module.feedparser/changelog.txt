@@ -1,2 +1,0 @@
-0.5.8
- Original: http://code.google.com/p/feedparser/
